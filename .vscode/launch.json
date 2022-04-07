@@ -1,0 +1,10 @@
+{
+  "configurations": [
+    {
+      "type": "pwa-chrome",
+      "name": "C:/Users/Doreen/Promineo/Week2Loops/index.html",
+      "request": "launch",
+      "url": "C:/Users/Doreen/Promineo/Week2Loops/index.html"
+    }
+  ]
+}
