@@ -115,3 +115,26 @@ while (cupsOfFlour < 5) {
 
   cupsOfFlour += 1;
 }  // console shows 0 thru 4 cups vertically
+
+// Examples of using a while loop for an array
+
+var array = [
+  {id: 0, name: 'John', age: 20},
+  {id: 1, name: 'Jane', age: 22},
+  {id: 2, name: 'Bob', age: 24},
+  {id: 3, name: 'Ana', age: 26},
+];
+
+var i = 0;
+while (i < array.length) {
+  console.log(array[i].name)
+  i++
+}
+
+var nhlTeams = ['Avalanche', 'Blackhawks', 'Bruins', 'Rangers'];
+  
+var i = 0;
+while (i < nhlTeams.length) {
+  console.log(nhlTeams [i])
+  i++
+}
